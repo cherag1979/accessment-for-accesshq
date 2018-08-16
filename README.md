@@ -1,7 +1,5 @@
 
-# Project Title
-
-Sample Project using Java, Serenity, Cucumber BDD.
+# Sample Project using Java, Serenity, Cucumber BDD.
 
 
 
